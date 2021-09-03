@@ -1,0 +1,14 @@
+D:\szya\.NetCodeTest\eVoucherManagementSystem\API\src\Estore.Core.Service\bin\Debug\netcoreapp3.1\Estore.Core.Service.deps.json
+D:\szya\.NetCodeTest\eVoucherManagementSystem\API\src\Estore.Core.Service\bin\Debug\netcoreapp3.1\Estore.Core.Service.dll
+D:\szya\.NetCodeTest\eVoucherManagementSystem\API\src\Estore.Core.Service\bin\Debug\netcoreapp3.1\Estore.Core.Service.pdb
+D:\szya\.NetCodeTest\eVoucherManagementSystem\API\src\Estore.Core.Service\bin\Debug\netcoreapp3.1\Estore.Core.Entities.dll
+D:\szya\.NetCodeTest\eVoucherManagementSystem\API\src\Estore.Core.Service\bin\Debug\netcoreapp3.1\Estore.Core.Repository.dll
+D:\szya\.NetCodeTest\eVoucherManagementSystem\API\src\Estore.Core.Service\bin\Debug\netcoreapp3.1\Estore.Core.Entities.pdb
+D:\szya\.NetCodeTest\eVoucherManagementSystem\API\src\Estore.Core.Service\bin\Debug\netcoreapp3.1\Estore.Core.Repository.pdb
+D:\szya\.NetCodeTest\eVoucherManagementSystem\API\src\Estore.Core.Service\obj\Debug\netcoreapp3.1\Estore.Core.Service.csprojAssemblyReference.cache
+D:\szya\.NetCodeTest\eVoucherManagementSystem\API\src\Estore.Core.Service\obj\Debug\netcoreapp3.1\Estore.Core.Service.AssemblyInfoInputs.cache
+D:\szya\.NetCodeTest\eVoucherManagementSystem\API\src\Estore.Core.Service\obj\Debug\netcoreapp3.1\Estore.Core.Service.AssemblyInfo.cs
+D:\szya\.NetCodeTest\eVoucherManagementSystem\API\src\Estore.Core.Service\obj\Debug\netcoreapp3.1\Estore.Core.Service.csproj.CoreCompileInputs.cache
+D:\szya\.NetCodeTest\eVoucherManagementSystem\API\src\Estore.Core.Service\obj\Debug\netcoreapp3.1\Estore.Core.Service.csproj.CopyComplete
+D:\szya\.NetCodeTest\eVoucherManagementSystem\API\src\Estore.Core.Service\obj\Debug\netcoreapp3.1\Estore.Core.Service.dll
+D:\szya\.NetCodeTest\eVoucherManagementSystem\API\src\Estore.Core.Service\obj\Debug\netcoreapp3.1\Estore.Core.Service.pdb

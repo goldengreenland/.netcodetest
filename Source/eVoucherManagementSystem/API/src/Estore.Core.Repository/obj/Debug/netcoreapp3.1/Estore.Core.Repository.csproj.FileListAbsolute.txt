@@ -1,0 +1,15 @@
+D:\szya\.NetCodeTest\eVoucherManagementSystem\API\src\Estore.Core.Repository\bin\Debug\netcoreapp3.1\Estore.Core.Repository.deps.json
+D:\szya\.NetCodeTest\eVoucherManagementSystem\API\src\Estore.Core.Repository\bin\Debug\netcoreapp3.1\Estore.Core.Repository.runtimeconfig.json
+D:\szya\.NetCodeTest\eVoucherManagementSystem\API\src\Estore.Core.Repository\bin\Debug\netcoreapp3.1\Estore.Core.Repository.runtimeconfig.dev.json
+D:\szya\.NetCodeTest\eVoucherManagementSystem\API\src\Estore.Core.Repository\bin\Debug\netcoreapp3.1\Estore.Core.Repository.dll
+D:\szya\.NetCodeTest\eVoucherManagementSystem\API\src\Estore.Core.Repository\bin\Debug\netcoreapp3.1\Estore.Core.Repository.pdb
+D:\szya\.NetCodeTest\eVoucherManagementSystem\API\src\Estore.Core.Repository\bin\Debug\netcoreapp3.1\Estore.Core.Entities.dll
+D:\szya\.NetCodeTest\eVoucherManagementSystem\API\src\Estore.Core.Repository\bin\Debug\netcoreapp3.1\Estore.Core.Entities.pdb
+D:\szya\.NetCodeTest\eVoucherManagementSystem\API\src\Estore.Core.Repository\obj\Debug\netcoreapp3.1\Estore.Core.Repository.csprojAssemblyReference.cache
+D:\szya\.NetCodeTest\eVoucherManagementSystem\API\src\Estore.Core.Repository\obj\Debug\netcoreapp3.1\Estore.Core.Repository.AssemblyInfoInputs.cache
+D:\szya\.NetCodeTest\eVoucherManagementSystem\API\src\Estore.Core.Repository\obj\Debug\netcoreapp3.1\Estore.Core.Repository.AssemblyInfo.cs
+D:\szya\.NetCodeTest\eVoucherManagementSystem\API\src\Estore.Core.Repository\obj\Debug\netcoreapp3.1\Estore.Core.Repository.csproj.CoreCompileInputs.cache
+D:\szya\.NetCodeTest\eVoucherManagementSystem\API\src\Estore.Core.Repository\obj\Debug\netcoreapp3.1\Estore.Core.Repository.csproj.CopyComplete
+D:\szya\.NetCodeTest\eVoucherManagementSystem\API\src\Estore.Core.Repository\obj\Debug\netcoreapp3.1\Estore.Core.Repository.dll
+D:\szya\.NetCodeTest\eVoucherManagementSystem\API\src\Estore.Core.Repository\obj\Debug\netcoreapp3.1\Estore.Core.Repository.pdb
+D:\szya\.NetCodeTest\eVoucherManagementSystem\API\src\Estore.Core.Repository\obj\Debug\netcoreapp3.1\Estore.Core.Repository.genruntimeconfig.cache

@@ -1,0 +1,9 @@
+D:\szya\.NetCodeTest\PromoCodeManagementSystem\Source\PromoCodeManagementSystem\Pcms.Core.Entities\obj\Debug\netcoreapp3.1\Pcms.Core.Entities.AssemblyInfoInputs.cache
+D:\szya\.NetCodeTest\PromoCodeManagementSystem\Source\PromoCodeManagementSystem\Pcms.Core.Entities\obj\Debug\netcoreapp3.1\Pcms.Core.Entities.AssemblyInfo.cs
+D:\szya\.NetCodeTest\PromoCodeManagementSystem\Source\PromoCodeManagementSystem\Pcms.Core.Entities\obj\Debug\netcoreapp3.1\Pcms.Core.Entities.csproj.CoreCompileInputs.cache
+D:\szya\.NetCodeTest\PromoCodeManagementSystem\Source\PromoCodeManagementSystem\Pcms.Core.Entities\bin\Debug\netcoreapp3.1\Pcms.Core.Entities.deps.json
+D:\szya\.NetCodeTest\PromoCodeManagementSystem\Source\PromoCodeManagementSystem\Pcms.Core.Entities\bin\Debug\netcoreapp3.1\Pcms.Core.Entities.dll
+D:\szya\.NetCodeTest\PromoCodeManagementSystem\Source\PromoCodeManagementSystem\Pcms.Core.Entities\bin\Debug\netcoreapp3.1\Pcms.Core.Entities.pdb
+D:\szya\.NetCodeTest\PromoCodeManagementSystem\Source\PromoCodeManagementSystem\Pcms.Core.Entities\obj\Debug\netcoreapp3.1\Pcms.Core.Entities.dll
+D:\szya\.NetCodeTest\PromoCodeManagementSystem\Source\PromoCodeManagementSystem\Pcms.Core.Entities\obj\Debug\netcoreapp3.1\Pcms.Core.Entities.pdb
+D:\szya\.NetCodeTest\PromoCodeManagementSystem\Source\PromoCodeManagementSystem\Pcms.Core.Entities\obj\Debug\netcoreapp3.1\Pcms.Core.Entities.csprojAssemblyReference.cache

@@ -1,0 +1,15 @@
+D:\szya\.NetCodeTest\PromoCodeManagementSystem\Source\PromoCodeManagementSystem\Pcms.Core.Repository\obj\Debug\netcoreapp3.1\Pcms.Core.Repository.csprojAssemblyReference.cache
+D:\szya\.NetCodeTest\PromoCodeManagementSystem\Source\PromoCodeManagementSystem\Pcms.Core.Repository\obj\Debug\netcoreapp3.1\Pcms.Core.Repository.AssemblyInfoInputs.cache
+D:\szya\.NetCodeTest\PromoCodeManagementSystem\Source\PromoCodeManagementSystem\Pcms.Core.Repository\obj\Debug\netcoreapp3.1\Pcms.Core.Repository.AssemblyInfo.cs
+D:\szya\.NetCodeTest\PromoCodeManagementSystem\Source\PromoCodeManagementSystem\Pcms.Core.Repository\obj\Debug\netcoreapp3.1\Pcms.Core.Repository.csproj.CoreCompileInputs.cache
+D:\szya\.NetCodeTest\PromoCodeManagementSystem\Source\PromoCodeManagementSystem\Pcms.Core.Repository\bin\Debug\netcoreapp3.1\Pcms.Core.Repository.deps.json
+D:\szya\.NetCodeTest\PromoCodeManagementSystem\Source\PromoCodeManagementSystem\Pcms.Core.Repository\bin\Debug\netcoreapp3.1\Pcms.Core.Repository.runtimeconfig.json
+D:\szya\.NetCodeTest\PromoCodeManagementSystem\Source\PromoCodeManagementSystem\Pcms.Core.Repository\bin\Debug\netcoreapp3.1\Pcms.Core.Repository.runtimeconfig.dev.json
+D:\szya\.NetCodeTest\PromoCodeManagementSystem\Source\PromoCodeManagementSystem\Pcms.Core.Repository\bin\Debug\netcoreapp3.1\Pcms.Core.Repository.dll
+D:\szya\.NetCodeTest\PromoCodeManagementSystem\Source\PromoCodeManagementSystem\Pcms.Core.Repository\bin\Debug\netcoreapp3.1\Pcms.Core.Repository.pdb
+D:\szya\.NetCodeTest\PromoCodeManagementSystem\Source\PromoCodeManagementSystem\Pcms.Core.Repository\bin\Debug\netcoreapp3.1\Pcms.Core.Entities.dll
+D:\szya\.NetCodeTest\PromoCodeManagementSystem\Source\PromoCodeManagementSystem\Pcms.Core.Repository\bin\Debug\netcoreapp3.1\Pcms.Core.Entities.pdb
+D:\szya\.NetCodeTest\PromoCodeManagementSystem\Source\PromoCodeManagementSystem\Pcms.Core.Repository\obj\Debug\netcoreapp3.1\Pcms.Core.Repository.csproj.CopyComplete
+D:\szya\.NetCodeTest\PromoCodeManagementSystem\Source\PromoCodeManagementSystem\Pcms.Core.Repository\obj\Debug\netcoreapp3.1\Pcms.Core.Repository.dll
+D:\szya\.NetCodeTest\PromoCodeManagementSystem\Source\PromoCodeManagementSystem\Pcms.Core.Repository\obj\Debug\netcoreapp3.1\Pcms.Core.Repository.pdb
+D:\szya\.NetCodeTest\PromoCodeManagementSystem\Source\PromoCodeManagementSystem\Pcms.Core.Repository\obj\Debug\netcoreapp3.1\Pcms.Core.Repository.genruntimeconfig.cache

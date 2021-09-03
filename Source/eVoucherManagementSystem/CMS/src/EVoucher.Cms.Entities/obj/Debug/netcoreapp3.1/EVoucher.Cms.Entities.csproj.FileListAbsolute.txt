@@ -1,0 +1,8 @@
+D:\szya\.NetCodeTest\eVoucherManagementSystem\CMS\src\EVoucher.Cms.Entities\bin\Debug\netcoreapp3.1\EVoucher.Cms.Entities.deps.json
+D:\szya\.NetCodeTest\eVoucherManagementSystem\CMS\src\EVoucher.Cms.Entities\bin\Debug\netcoreapp3.1\EVoucher.Cms.Entities.dll
+D:\szya\.NetCodeTest\eVoucherManagementSystem\CMS\src\EVoucher.Cms.Entities\bin\Debug\netcoreapp3.1\EVoucher.Cms.Entities.pdb
+D:\szya\.NetCodeTest\eVoucherManagementSystem\CMS\src\EVoucher.Cms.Entities\obj\Debug\netcoreapp3.1\EVoucher.Cms.Entities.AssemblyInfoInputs.cache
+D:\szya\.NetCodeTest\eVoucherManagementSystem\CMS\src\EVoucher.Cms.Entities\obj\Debug\netcoreapp3.1\EVoucher.Cms.Entities.AssemblyInfo.cs
+D:\szya\.NetCodeTest\eVoucherManagementSystem\CMS\src\EVoucher.Cms.Entities\obj\Debug\netcoreapp3.1\EVoucher.Cms.Entities.csproj.CoreCompileInputs.cache
+D:\szya\.NetCodeTest\eVoucherManagementSystem\CMS\src\EVoucher.Cms.Entities\obj\Debug\netcoreapp3.1\EVoucher.Cms.Entities.dll
+D:\szya\.NetCodeTest\eVoucherManagementSystem\CMS\src\EVoucher.Cms.Entities\obj\Debug\netcoreapp3.1\EVoucher.Cms.Entities.pdb

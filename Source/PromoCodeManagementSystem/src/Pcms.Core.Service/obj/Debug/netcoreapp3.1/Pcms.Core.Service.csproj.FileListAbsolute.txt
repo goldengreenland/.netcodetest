@@ -1,0 +1,14 @@
+D:\szya\.NetCodeTest\PromoCodeManagementSystem\Source\PromoCodeManagementSystem\Pcms.Core.Service\bin\Debug\netcoreapp3.1\Pcms.Core.Service.deps.json
+D:\szya\.NetCodeTest\PromoCodeManagementSystem\Source\PromoCodeManagementSystem\Pcms.Core.Service\bin\Debug\netcoreapp3.1\Pcms.Core.Service.dll
+D:\szya\.NetCodeTest\PromoCodeManagementSystem\Source\PromoCodeManagementSystem\Pcms.Core.Service\bin\Debug\netcoreapp3.1\Pcms.Core.Service.pdb
+D:\szya\.NetCodeTest\PromoCodeManagementSystem\Source\PromoCodeManagementSystem\Pcms.Core.Service\obj\Debug\netcoreapp3.1\Pcms.Core.Service.csprojAssemblyReference.cache
+D:\szya\.NetCodeTest\PromoCodeManagementSystem\Source\PromoCodeManagementSystem\Pcms.Core.Service\obj\Debug\netcoreapp3.1\Pcms.Core.Service.AssemblyInfoInputs.cache
+D:\szya\.NetCodeTest\PromoCodeManagementSystem\Source\PromoCodeManagementSystem\Pcms.Core.Service\obj\Debug\netcoreapp3.1\Pcms.Core.Service.AssemblyInfo.cs
+D:\szya\.NetCodeTest\PromoCodeManagementSystem\Source\PromoCodeManagementSystem\Pcms.Core.Service\obj\Debug\netcoreapp3.1\Pcms.Core.Service.csproj.CoreCompileInputs.cache
+D:\szya\.NetCodeTest\PromoCodeManagementSystem\Source\PromoCodeManagementSystem\Pcms.Core.Service\obj\Debug\netcoreapp3.1\Pcms.Core.Service.dll
+D:\szya\.NetCodeTest\PromoCodeManagementSystem\Source\PromoCodeManagementSystem\Pcms.Core.Service\obj\Debug\netcoreapp3.1\Pcms.Core.Service.pdb
+D:\szya\.NetCodeTest\PromoCodeManagementSystem\Source\PromoCodeManagementSystem\Pcms.Core.Service\bin\Debug\netcoreapp3.1\Pcms.Core.Entities.dll
+D:\szya\.NetCodeTest\PromoCodeManagementSystem\Source\PromoCodeManagementSystem\Pcms.Core.Service\bin\Debug\netcoreapp3.1\Pcms.Core.Repository.dll
+D:\szya\.NetCodeTest\PromoCodeManagementSystem\Source\PromoCodeManagementSystem\Pcms.Core.Service\bin\Debug\netcoreapp3.1\Pcms.Core.Entities.pdb
+D:\szya\.NetCodeTest\PromoCodeManagementSystem\Source\PromoCodeManagementSystem\Pcms.Core.Service\bin\Debug\netcoreapp3.1\Pcms.Core.Repository.pdb
+D:\szya\.NetCodeTest\PromoCodeManagementSystem\Source\PromoCodeManagementSystem\Pcms.Core.Service\obj\Debug\netcoreapp3.1\Pcms.Core.Service.csproj.CopyComplete

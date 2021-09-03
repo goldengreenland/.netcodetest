@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\EVoucher.Cms.Entities\EVoucher.Cms.Entities.csproj" />
+    <ProjectReference Include="..\EVoucher.Cms.Repository\EVoucher.Cms.Repository.csproj" />
+  </ItemGroup>
+
+</Project>

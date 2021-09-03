@@ -1,0 +1,14 @@
+D:\szya\.NetCodeTest\eVoucherManagementSystem\CMS\src\EVoucher.Cms.Service\bin\Debug\netcoreapp3.1\EVoucher.Cms.Service.deps.json
+D:\szya\.NetCodeTest\eVoucherManagementSystem\CMS\src\EVoucher.Cms.Service\bin\Debug\netcoreapp3.1\EVoucher.Cms.Service.dll
+D:\szya\.NetCodeTest\eVoucherManagementSystem\CMS\src\EVoucher.Cms.Service\bin\Debug\netcoreapp3.1\EVoucher.Cms.Service.pdb
+D:\szya\.NetCodeTest\eVoucherManagementSystem\CMS\src\EVoucher.Cms.Service\bin\Debug\netcoreapp3.1\EVoucher.Cms.Entities.dll
+D:\szya\.NetCodeTest\eVoucherManagementSystem\CMS\src\EVoucher.Cms.Service\bin\Debug\netcoreapp3.1\EVoucher.Cms.Repository.dll
+D:\szya\.NetCodeTest\eVoucherManagementSystem\CMS\src\EVoucher.Cms.Service\bin\Debug\netcoreapp3.1\EVoucher.Cms.Entities.pdb
+D:\szya\.NetCodeTest\eVoucherManagementSystem\CMS\src\EVoucher.Cms.Service\bin\Debug\netcoreapp3.1\EVoucher.Cms.Repository.pdb
+D:\szya\.NetCodeTest\eVoucherManagementSystem\CMS\src\EVoucher.Cms.Service\obj\Debug\netcoreapp3.1\EVoucher.Cms.Service.csprojAssemblyReference.cache
+D:\szya\.NetCodeTest\eVoucherManagementSystem\CMS\src\EVoucher.Cms.Service\obj\Debug\netcoreapp3.1\EVoucher.Cms.Service.AssemblyInfoInputs.cache
+D:\szya\.NetCodeTest\eVoucherManagementSystem\CMS\src\EVoucher.Cms.Service\obj\Debug\netcoreapp3.1\EVoucher.Cms.Service.AssemblyInfo.cs
+D:\szya\.NetCodeTest\eVoucherManagementSystem\CMS\src\EVoucher.Cms.Service\obj\Debug\netcoreapp3.1\EVoucher.Cms.Service.csproj.CoreCompileInputs.cache
+D:\szya\.NetCodeTest\eVoucherManagementSystem\CMS\src\EVoucher.Cms.Service\obj\Debug\netcoreapp3.1\EVoucher.Cms.Service.csproj.CopyComplete
+D:\szya\.NetCodeTest\eVoucherManagementSystem\CMS\src\EVoucher.Cms.Service\obj\Debug\netcoreapp3.1\EVoucher.Cms.Service.dll
+D:\szya\.NetCodeTest\eVoucherManagementSystem\CMS\src\EVoucher.Cms.Service\obj\Debug\netcoreapp3.1\EVoucher.Cms.Service.pdb

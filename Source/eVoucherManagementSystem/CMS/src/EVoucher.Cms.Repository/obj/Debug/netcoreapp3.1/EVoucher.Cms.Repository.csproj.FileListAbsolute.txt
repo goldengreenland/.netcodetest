@@ -1,0 +1,15 @@
+D:\szya\.NetCodeTest\eVoucherManagementSystem\CMS\src\EVoucher.Cms.Repository\bin\Debug\netcoreapp3.1\EVoucher.Cms.Repository.deps.json
+D:\szya\.NetCodeTest\eVoucherManagementSystem\CMS\src\EVoucher.Cms.Repository\bin\Debug\netcoreapp3.1\EVoucher.Cms.Repository.runtimeconfig.json
+D:\szya\.NetCodeTest\eVoucherManagementSystem\CMS\src\EVoucher.Cms.Repository\bin\Debug\netcoreapp3.1\EVoucher.Cms.Repository.runtimeconfig.dev.json
+D:\szya\.NetCodeTest\eVoucherManagementSystem\CMS\src\EVoucher.Cms.Repository\bin\Debug\netcoreapp3.1\EVoucher.Cms.Repository.dll
+D:\szya\.NetCodeTest\eVoucherManagementSystem\CMS\src\EVoucher.Cms.Repository\bin\Debug\netcoreapp3.1\EVoucher.Cms.Repository.pdb
+D:\szya\.NetCodeTest\eVoucherManagementSystem\CMS\src\EVoucher.Cms.Repository\bin\Debug\netcoreapp3.1\EVoucher.Cms.Entities.dll
+D:\szya\.NetCodeTest\eVoucherManagementSystem\CMS\src\EVoucher.Cms.Repository\bin\Debug\netcoreapp3.1\EVoucher.Cms.Entities.pdb
+D:\szya\.NetCodeTest\eVoucherManagementSystem\CMS\src\EVoucher.Cms.Repository\obj\Debug\netcoreapp3.1\EVoucher.Cms.Repository.csprojAssemblyReference.cache
+D:\szya\.NetCodeTest\eVoucherManagementSystem\CMS\src\EVoucher.Cms.Repository\obj\Debug\netcoreapp3.1\EVoucher.Cms.Repository.AssemblyInfoInputs.cache
+D:\szya\.NetCodeTest\eVoucherManagementSystem\CMS\src\EVoucher.Cms.Repository\obj\Debug\netcoreapp3.1\EVoucher.Cms.Repository.AssemblyInfo.cs
+D:\szya\.NetCodeTest\eVoucherManagementSystem\CMS\src\EVoucher.Cms.Repository\obj\Debug\netcoreapp3.1\EVoucher.Cms.Repository.csproj.CoreCompileInputs.cache
+D:\szya\.NetCodeTest\eVoucherManagementSystem\CMS\src\EVoucher.Cms.Repository\obj\Debug\netcoreapp3.1\EVoucher.Cms.Repository.csproj.CopyComplete
+D:\szya\.NetCodeTest\eVoucherManagementSystem\CMS\src\EVoucher.Cms.Repository\obj\Debug\netcoreapp3.1\EVoucher.Cms.Repository.dll
+D:\szya\.NetCodeTest\eVoucherManagementSystem\CMS\src\EVoucher.Cms.Repository\obj\Debug\netcoreapp3.1\EVoucher.Cms.Repository.pdb
+D:\szya\.NetCodeTest\eVoucherManagementSystem\CMS\src\EVoucher.Cms.Repository\obj\Debug\netcoreapp3.1\EVoucher.Cms.Repository.genruntimeconfig.cache
