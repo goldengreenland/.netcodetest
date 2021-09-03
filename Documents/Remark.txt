@@ -1,0 +1,12 @@
+Development Environment
+- IDE (VS 2019)
+- Mysql 8.0
+- .NetCore 3.1
+
+Framework
+- EntityFramework
+- Dependency Injection
+- Repositry Pattern
+
+Security
+- jWt Token
