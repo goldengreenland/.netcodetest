@@ -1,0 +1,285 @@
+{
+	"info": {
+		"_postman_id": "81b0dd2e-391e-4c55-9828-8c177d69c5c6",
+		"name": "PCMS",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Token",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"userName\": \"pcmsAdmin\",\r\n  \"password\": \"pcms@codigo\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:33333/api/Authenticate/authentication",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "33333",
+					"path": [
+						"api",
+						"Authenticate",
+						"authentication"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GetAll",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6InBjbXNBZG1pbiIsIm5iZiI6MTYzMDYzMDYxMiwiZXhwIjoxNjMwNzE3MDEyLCJpYXQiOjE2MzA2MzA2MTJ9.a0_Pgsz7SzIEvJKdzm85i6Ip9kXmcI_RxpyopkNtd58",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:33333/api/PromoCode/GetAll",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "33333",
+					"path": [
+						"api",
+						"PromoCode",
+						"GetAll"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GetByPromoCode",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6InBjbXNBZG1pbiIsIm5iZiI6MTYzMDYzMDYxMiwiZXhwIjoxNjMwNzE3MDEyLCJpYXQiOjE2MzA2MzA2MTJ9.a0_Pgsz7SzIEvJKdzm85i6Ip9kXmcI_RxpyopkNtd58",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:33333/api/PromoCode/GetByPromoCode?promoCode=HZ645R8F9X1",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "33333",
+					"path": [
+						"api",
+						"PromoCode",
+						"GetByPromoCode"
+					],
+					"query": [
+						{
+							"key": "promoCode",
+							"value": "HZ645R8F9X1"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GetUnusedEVoucher",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6InBjbXNBZG1pbiIsIm5iZiI6MTYzMDYzMDYxMiwiZXhwIjoxNjMwNzE3MDEyLCJpYXQiOjE2MzA2MzA2MTJ9.a0_Pgsz7SzIEvJKdzm85i6Ip9kXmcI_RxpyopkNtd58",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:33333/api/PromoCode/GetUnusedEVoucher",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "33333",
+					"path": [
+						"api",
+						"PromoCode",
+						"GetUnusedEVoucher"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GetUsedEVoucher",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6InBjbXNBZG1pbiIsIm5iZiI6MTYzMDYzMDYxMiwiZXhwIjoxNjMwNzE3MDEyLCJpYXQiOjE2MzA2MzA2MTJ9.a0_Pgsz7SzIEvJKdzm85i6Ip9kXmcI_RxpyopkNtd58",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:33333/api/PromoCode/GetUsedEVoucher",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "33333",
+					"path": [
+						"api",
+						"PromoCode",
+						"GetUsedEVoucher"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "VerifyPromoCode",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6InBjbXNBZG1pbiIsIm5iZiI6MTYzMDYzMDYxMiwiZXhwIjoxNjMwNzE3MDEyLCJpYXQiOjE2MzA2MzA2MTJ9.a0_Pgsz7SzIEvJKdzm85i6Ip9kXmcI_RxpyopkNtd58",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:33333/api/PromoCode/Verify?promoCode=75B83K0OL5N",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "33333",
+					"path": [
+						"api",
+						"PromoCode",
+						"Verify"
+					],
+					"query": [
+						{
+							"key": "promoCode",
+							"value": "75B83K0OL5N"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GeneratePromoCode",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6InBjbXNBZG1pbiIsIm5iZiI6MTYzMDYzMDYxMiwiZXhwIjoxNjMwNzE3MDEyLCJpYXQiOjE2MzA2MzA2MTJ9.a0_Pgsz7SzIEvJKdzm85i6Ip9kXmcI_RxpyopkNtd58",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"mobile\": \"09972649410\",\r\n  \"quantity\": 1\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:33333/api/PromoCode/GeneratePromoCode",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "33333",
+					"path": [
+						"api",
+						"PromoCode",
+						"GeneratePromoCode"
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"auth": {
+		"type": "bearer",
+		"bearer": [
+			{
+				"key": "token",
+				"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6InBjbXNBZG1pbiIsIm5iZiI6MTYzMDYzMDYxMiwiZXhwIjoxNjMwNzE3MDEyLCJpYXQiOjE2MzA2MzA2MTJ9.a0_Pgsz7SzIEvJKdzm85i6Ip9kXmcI_RxpyopkNtd58",
+				"type": "string"
+			}
+		]
+	},
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		}
+	]
+}

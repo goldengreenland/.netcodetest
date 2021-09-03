@@ -1,0 +1,190 @@
+{
+	"info": {
+		"_postman_id": "4e41a174-ebc8-4d82-89cf-bda2055d933a",
+		"name": "eVoucherCMSApi",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "GetToken",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"userName\": \"eVoucherAdmin\",\r\n  \"password\": \"eVoucher@codigo\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:63830/api/Authenticate/authentication",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "63830",
+					"path": [
+						"api",
+						"Authenticate",
+						"authentication"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Create eVoucher",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6InBjbXNBZG1pbiIsIm5iZiI6MTYzMDYzMDYxMiwiZXhwIjoxNjMwNzE3MDEyLCJpYXQiOjE2MzA2MzA2MTJ9.a0_Pgsz7SzIEvJKdzm85i6Ip9kXmcI_RxpyopkNtd58",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"title\": \"EVoucher1\",\r\n  \"description\": \"EVoucher One\",\r\n  \"expiryDate\": \"2022-09-02\",\r\n  \"image\": \"\",\r\n  \"paymentMethodId\": 1,\r\n  \"paymentMethodDiscountId\": 1,\r\n  \"amount\": 1000,\r\n  \"quantity\": 1,\r\n  \"couponTypeId\": 1,\r\n  \"buyType\": {\r\n    \"id\": 0,\r\n    \"couponTypeId\": 1,\r\n    \"name\": \"Saw\",\r\n    \"phoneNumber\": \"09972649400\",\r\n    \"maxLimitBySelf\": 10,\r\n    \"maxLimitByGift\": 0\r\n  },\r\n  \"status\": true\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:63830/api/EVoucher/Create",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "63830",
+					"path": [
+						"api",
+						"EVoucher",
+						"Create"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Edit eVoucher",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6InBjbXNBZG1pbiIsIm5iZiI6MTYzMDYzMDYxMiwiZXhwIjoxNjMwNzE3MDEyLCJpYXQiOjE2MzA2MzA2MTJ9.a0_Pgsz7SzIEvJKdzm85i6Ip9kXmcI_RxpyopkNtd58",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"Id\" : 6,\r\n  \"title\": \"Evoucher 11\",\r\n  \"description\": \"Testing Evoucher 11\",\r\n  \"expiryDate\": \"2022-09-02\",\r\n  \"image\": \"\",\r\n  \"paymentMethodId\": 1,\r\n  \"paymentMethodDiscountId\": 1,\r\n  \"amount\": 1000,\r\n  \"quantity\": 1,\r\n  \"couponTypeId\": 1,\r\n  \"buyType\": {\r\n    \"id\": 0,\r\n    \"couponTypeId\": 1,\r\n    \"name\": \"Saw\",\r\n    \"phoneNumber\": \"09972649400\",\r\n    \"maxLimitBySelf\": 10,\r\n    \"maxLimitByGift\": 0\r\n  },\r\n  \"status\": true\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:63830/api/EVoucher/Edit",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "63830",
+					"path": [
+						"api",
+						"EVoucher",
+						"Edit"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Update eVoucher Status",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6InBjbXNBZG1pbiIsIm5iZiI6MTYzMDYzMDYxMiwiZXhwIjoxNjMwNzE3MDEyLCJpYXQiOjE2MzA2MzA2MTJ9.a0_Pgsz7SzIEvJKdzm85i6Ip9kXmcI_RxpyopkNtd58",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:63830/api/EVoucher/UpdateStatus?eVoucherId=3&isActive=true",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "63830",
+					"path": [
+						"api",
+						"EVoucher",
+						"UpdateStatus"
+					],
+					"query": [
+						{
+							"key": "eVoucherId",
+							"value": "3"
+						},
+						{
+							"key": "isActive",
+							"value": "true"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"auth": {
+		"type": "bearer",
+		"bearer": [
+			{
+				"key": "token",
+				"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImVWb3VjaGVyQWRtaW4iLCJuYmYiOjE2MzA2MzQ2MjksImV4cCI6MTYzMDcyMTAyOCwiaWF0IjoxNjMwNjM0NjI5fQ.A-I_cogaHLU0PP7OttG_jsD16KVEg6GMnrp28LW8s3s",
+				"type": "string"
+			}
+		]
+	},
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		}
+	]
+}

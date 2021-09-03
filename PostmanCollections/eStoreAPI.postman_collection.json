@@ -1,0 +1,229 @@
+{
+	"info": {
+		"_postman_id": "88af0e87-220b-44a3-a9ef-564ea5d7499a",
+		"name": "eStoreAPI",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "GetToken",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"userName\": \"eStoreAdmin\",\r\n  \"password\": \"eStore@codigo\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:63820/api/Authenticate/authentication",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "63820",
+					"path": [
+						"api",
+						"Authenticate",
+						"authentication"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get All eVoucher",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6InBjbXNBZG1pbiIsIm5iZiI6MTYzMDYzMDYxMiwiZXhwIjoxNjMwNzE3MDEyLCJpYXQiOjE2MzA2MzA2MTJ9.a0_Pgsz7SzIEvJKdzm85i6Ip9kXmcI_RxpyopkNtd58",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:63820/api/EStore/GetAllEVoucher",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "63820",
+					"path": [
+						"api",
+						"EStore",
+						"GetAllEVoucher"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get eVoucher Detail",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6InBjbXNBZG1pbiIsIm5iZiI6MTYzMDYzMDYxMiwiZXhwIjoxNjMwNzE3MDEyLCJpYXQiOjE2MzA2MzA2MTJ9.a0_Pgsz7SzIEvJKdzm85i6Ip9kXmcI_RxpyopkNtd58",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:63820/api/EStore/GetEVoucherDetailById?eVoucherId=5",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "63820",
+					"path": [
+						"api",
+						"EStore",
+						"GetEVoucherDetailById"
+					],
+					"query": [
+						{
+							"key": "eVoucherId",
+							"value": "5"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GetUnusedEVoucher",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6InBjbXNBZG1pbiIsIm5iZiI6MTYzMDYzMDYxMiwiZXhwIjoxNjMwNzE3MDEyLCJpYXQiOjE2MzA2MzA2MTJ9.a0_Pgsz7SzIEvJKdzm85i6Ip9kXmcI_RxpyopkNtd58",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:63820/api/PurchaseHistory/GetUnusedEVoucher",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "63820",
+					"path": [
+						"api",
+						"PurchaseHistory",
+						"GetUnusedEVoucher"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GetUsedEVoucher",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6InBjbXNBZG1pbiIsIm5iZiI6MTYzMDYzMDYxMiwiZXhwIjoxNjMwNzE3MDEyLCJpYXQiOjE2MzA2MzA2MTJ9.a0_Pgsz7SzIEvJKdzm85i6Ip9kXmcI_RxpyopkNtd58",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:63820/api/PurchaseHistory/GetUsedEVoucher",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "63820",
+					"path": [
+						"api",
+						"PurchaseHistory",
+						"GetUsedEVoucher"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "VerifyPromoCode",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6InBjbXNBZG1pbiIsIm5iZiI6MTYzMDYzMDYxMiwiZXhwIjoxNjMwNzE3MDEyLCJpYXQiOjE2MzA2MzA2MTJ9.a0_Pgsz7SzIEvJKdzm85i6Ip9kXmcI_RxpyopkNtd58",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:63820/api/EStore/VerifyPromoCode?promoCode=Y01V3E2FL18",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "63820",
+					"path": [
+						"api",
+						"EStore",
+						"VerifyPromoCode"
+					],
+					"query": [
+						{
+							"key": "promoCode",
+							"value": "Y01V3E2FL18"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"auth": {
+		"type": "bearer"
+	},
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		}
+	]
+}
